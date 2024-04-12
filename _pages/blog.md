@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: https://www.github.com
+permalink: /blog/
 title: blog
 nav: true
 nav_order: 1
