@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: A data enthusiast. An avid runner. A culinary dilettante. A selectively outgoing introvert. 
 
 profile:
   align: right
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>159 Carolina Hall, Suite 161</p>
-    <p>Department of Mathematics, Winston-Salem State University</p>
+    <p>159 Carolina Hall</p>
+    <p>Dept of Mathematics, WSSU</p>
     <p>601 S Martin Luther King Jr, Winston-Salem, NC 27110</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I'm currently an Assistant Professor in Statistics at Department of Mathematics, Winston-Salem State University (WSSU). Prior to my appointment at WSSU, I pursue a Ph.D degree in Statistics at University of Louisiana at Lafayette, under Dr. Kalimuthu Krishnoorthy's supervisor. My main research interests lie at the intersection between small sample interference discrete/continuous distributions and developing hypothesis tests as well as statistical intervals employing fiducial techniques. My research so far reflects these interests.  
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As an educator in Statistics, my mission transcends the mere transmission of formulas and equations; it’s about reshaping perceptions and instilling a love for the subject. My dual objectives are to dispel the myth that Statistics is an insurmountable fortress and to cultivate an environment where learning is an active,
+collaborative endeavor. I, however, do not see research and teaching as two separate tasks; rather, they are intertwined facets of a broader educational journey. I do research to be a better teacher and teaching inspires my research. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+After work, I enjoy simple underated pleasures in life, e.g. running, a lazy afternoon with my husband and our dog, a long walk in the wood, reading [a book](https://www.goodreads.com/en/book/show/40495148) which I never had a chance to finish, gardening, watching [King of the Hill](https://en.wikipedia.org/wiki/King_of_the_Hill), etc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
