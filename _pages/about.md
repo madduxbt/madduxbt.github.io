@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A data enthusiast. An avid runner. A culinary dilettante. A selectively outgoing introvert. 
+subtitle: _A data enthusiast. An avid runner. A culinary dilettante. A selectively outgoing introvert._ 
 
 profile:
   align: right
