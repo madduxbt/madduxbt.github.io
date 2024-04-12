@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: https://github.com/squidfunk/mkdocs-material/discussions/3660
+permalink: https://www.github.com
 title: blog
 nav: true
 nav_order: 1
