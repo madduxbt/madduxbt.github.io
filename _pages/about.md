@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: {A data enthusiast. An avid runner. A culinary dilettante. A selectively outgoing introvert.} 
+subtitle: -A data enthusiast. An avid runner. A culinary dilettante. A selectively outgoing introvert.- 
 
 profile:
   align: right
   image: me.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>159 Carolina Hall</p>
     <p>Dept of Mathematics, WSSU</p>
