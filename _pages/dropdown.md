@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: teaching
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: R programming
+    permalink: https://numberteller.github.io/
   - title: divider
   - title: projects
     permalink: /projects/

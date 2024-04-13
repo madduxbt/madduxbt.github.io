@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: https://numberteller.github.io/
-title: blog
-nav: true
+title: R programming
+nav: false
 nav_order: 1
 pagination:
   enabled: true

@@ -2,7 +2,7 @@
 layout: page
 title: vietnam
 permalink: /vietnam/
-description: To me, Vietnam is home. I was born in a Southern city in Vietnam, Can Tho, nineteen years after the Fall of Saigon - the historical event highlighting the US withdrawal from Vietnam war. Once one of the world’s poorest and most isolated countries from nearly 120 years in ghastly war, Vietnam is now a middle-income country with a dynamic, young population and a promising future. Here's to Vietnam's resilience beauty and its future!
+description: Vietnam is my home. Once one of the world’s poorest and most isolated countries from nearly 120 years in ghastly war, Vietnam is now a middle-income country with a dynamic, young population and a promising future. Here's to Vietnam's resilience beauty and its future!
 nav: true
 nav_order: 3
 display_categories: [food, places]
