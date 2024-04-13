@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pho-tastic
-description: Isn't it pho-tastic?
+description: isn't it pho-tastic?
 img: assets/img/12.jpg
 importance: 1
 category: food
