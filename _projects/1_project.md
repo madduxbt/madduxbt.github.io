@@ -8,74 +8,18 @@ category: food
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+Pho is the staple of Vietnamese cuisine. Everyone loves pho, and I'm not being biased. No one can resist the signature balance of protein, fiber and carbs in a bowl of pho, the heart-warming umami rich beef broth, the perfect blend of aromatic herbs (consisting of star anise, roasted ginger, roasted onion, black cardamom, coriander seed, fennel seed, and clove) and the kaleidoscope of texture & color. Almost every city in the US I travel to, there is at least a pho restaurant (whether they are authentic is another story for another day). If you have never had pho, try it out! If you want to take your love for pho to the next level and are interested in making it by yourself, there are a copious number of recipes on the Internet that give you detailed instructions. I'm here to give you some fun facts about pho that it is very likely that you did not know about.
+1. There are quite a few variations of pho in Vietnam, e.g pho Sai Gon, pho Ha Noi, pho Nam Dinh, etc. The vast majority of pho served in the US is pho Sai Gon (originated from Sai Gon, the South of Vietnam). Pho Ha Noi is a far cry from pho Sai Gon, with respect to their flavor profiles. Which pho is better? This is a debate that can never reach to an unanimous agreement and perhaps is one of the non-polical questions that could easily divide the nation. Sai Gon people take pride in their rich flavorful broth, Ha Noi people would not change a thing in their subtle broth. Sai Gon people firmly believe hoisin sauce and sriracha are the combo condiments that go hand-in-hand with pho and elevate pho flavor. Ha Noi people find it outrageous and offensive if pho is served with any condiments but homemade chili garlic fish sauce.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/phosaigon.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/phohanoi.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Pho Sai Gon and pho Ha Noi, from left to right.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+2. There is no proper way to eat pho. Using forks instead of chopsticks won't get you frowned upon. You could add condiments directly into your bowl or put them on a saucer to dip meat in for all I care. 
+3. For how fantastic pho is, a great portion of Vietnamese, including me, do not think pho is the best Vietnamese noodle dish. Next time you are in a Vietnamese restaurant, be more adventurous and order something other than pho, you will have your mind blown.
