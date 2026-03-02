@@ -18,3 +18,4 @@ Almost every city in the US I travel to, there is at least a pho restaurant (whe
 If you have never had pho, try it out!
 If you want to take your love for pho to the next level by making one on your own, there are a copious number of recipes on the Internet that give you detailed instructions.
 Right now I'm to give you some fun facts about pho that you might not know.
+
